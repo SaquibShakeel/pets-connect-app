@@ -1,0 +1,6 @@
+[submodule "pets-connect"]
+	path = pets-connect
+	url = https://github.com/SaquibShakeel/pets-connect.git
+[submodule "pets-connect-backend"]
+	path = pets-connect-backend
+	url = https://github.com/SaquibShakeel/pets-connect-backend.git
